@@ -4,11 +4,6 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="name">Name</string>
-    <string name="address">Address</string>
-    <string name="mobile_number">Mobile Number</string>
-    <string name="delete_account">Delete Account</string>
-    <string name="register">Register</string>
-    <string name="sign_up">Sign Up</string>
     <string name="sign_out">Sign Out</string>
     <string name="forget_password">Forget password</string>
     <string name="sign_in">Sign in</string>
@@ -42,22 +37,16 @@
     <string name="free_shipping">FREE Shipping</string>
     <string name="fulfilled_by_vermifarm">Fulfilled by Vermifarm</string>
     <string name="search">Search</string>
-    <string name="search_hint">What are you looking for?</string>
     <string name="cart">Cart</string>
     <string name="profile_picture">Profile Picture</string>
-    <string name="hafsanoor401_gmail_com">hafsanoor401_gmail_com</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <!--Navigation Menu Titles-->
-    <string name="share">Share</string>
-    <string name="rate">Rate Us</string>
-    <string name="communicate">Communicate</string>
-    <string name="mobiles">Mobiles</string>
-    <string name="laptops">Laptops</string>
-    <string name="babies">Babies</string>
-    <string name="toys">Toys</string>
+    <string name="fertilizers">Fertilizers</string>
+    <string name="vermifluids">Vermifluids</string>
+    <string name="gardenbeds">GardenBeds</string>
     <string name="track_orders">Track Orders</string>
     <string name="my_account">My Account</string>
     <string name="news_feed">News Feed</string>
@@ -77,7 +66,6 @@
     <string name="an_empty_wishlist_does_not_look_good">An empty wishlist does not look good</string>
     <string name="add_product">Add Product</string>
 
-    <string name="nameOfProduct">Name</string>
     <string name="price">Price</string>
     <string name="quantity">Quantity</string>
     <string name="supplier">Supplier</string>
@@ -122,13 +110,10 @@
     <string name="returnProduct">Changed your mind, you can return your product and get a full refund.</string>
     <string name="want_to_exit">Do you really want to exit?</string>
     <string name="ok">OK</string>
-    <string name="create_account">Creating Account...</string>
     <string name="loading">Loading...</string>
     <string name="don_t_let_go_your_shopping_habit">Don\'t let go your shopping habit</string>
     <string name="your_cart_is_empty">Your Cart is empty</string>
     <string name="no_products_in_this_category">No products in this category</string>
-    <string name="english">English</string>
-    <string name="choose_language">Choose Language</string>
     <string name="shop_online">Shop Online</string>
 
     <string name="wishlist">WishList</string>
@@ -139,7 +124,6 @@
     <string name="authentication_required">Authentication Required</string>
     <string name="enter_otp">Enter OTP</string>
     <string name="description2">For your security, we need to authenticate your request. We\'ve sent a code from <b>Vermifarm</b> to the email %1$s. Please enter it below.</string>
-    <string name="enter_your_email">Please Enter your correct email</string>
     <string name="incorrect_code">Incorrect Code</string>
     <string name="resend_otp">Resend OTP</string>
     <string name="counter">60</string>
@@ -156,14 +140,12 @@
     <string name="my_order_history">MY ORDER HISTORY</string>
     <string name="order_number">324432442</string>
     <string name="order_date">23-11-2020</string>
-    <string name="track_order">Track Order</string>
     <string name="status">Status</string>
     <string name="add_a_credit_or_debit_card">Add a credit or debit card</string>
     <string name="name_on_card">Name On Card</string>
     <string name="card_number">Card Number</string>
     <string name="add_your_card">Add your card</string>
     <string name="expiration_date">Expiration Date</string>
-    <string name="drop_down_menu">Drop Down Menu</string>
     <string name="orders">Orders</string>
     <string name="order_n">ORDER N:</string>
     <string name="shipping">Shipping</string>
@@ -183,10 +165,10 @@
     <string name="_2023">2023</string>
 
     <string-array name="categories_array">
-        <item>Mobile</item>
-        <item>Laptop</item>
-        <item>Baby</item>
-        <item>Toy</item>
+        <item>Fertilizer</item>
+        <item>Vermifluid</item>
+        <item>GardenBed</item>
+
     </string-array>
 
 </resources>

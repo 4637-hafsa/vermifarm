@@ -473,14 +473,13 @@ public class ProductActivity extends AppCompatActivity implements View.OnClickLi
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
         int id = menuItem.getItemId();
 
-        if (id == R.id.nav_mobiles) {
-            goToCategoryActivity("Mobile");
-        } else if (id == R.id.nav_laptops) {
-            goToCategoryActivity("Laptop");
-        } else if (id == R.id.nav_babies) {
-            goToCategoryActivity("Baby");
-        } else if (id == R.id.nav_toys) {
-            goToCategoryActivity("Toy");
+        if (id == R.id.nav_fertilizers) {
+            goToCategoryActivity("Fertilizer");
+        } else if (id == R.id.nav_vermifluids) {
+            goToCategoryActivity("Vermifluid");
+        } else if (id == R.id.nav_gardenbeds) {
+            goToCategoryActivity("GardenBed");
+
         } else if (id == R.id.nav_trackOrder) {
             Intent orderIntent = new Intent(this, OrdersActivity.class);
             startActivity(orderIntent);
